@@ -1,6 +1,6 @@
 # Fizzbuzz Collection
 
-This repository contains a simple implementation of the classic "Fizzbuzz" problem. This initial implementation is written in Ruby using a Docker container.
+This repository contains a simple implementation of the classic "Fizzbuzz" problem in Ruby and Python, both using docker containers.
 
 ## The Problem
 Write a program that outputs the string representation of numbers from 1 to n.
@@ -10,6 +10,6 @@ But for multiples of three it should output “Fizz” instead of the number and
 ## How to run it
 * Install Docker
 * Clone the Repo
-* Navigate to the Ruby directory
+* Navigate to the appropriate language directory
 * build the container: `docker build -t fizzbuzz .`
 * run the application: `docker run fizzbuzz`
