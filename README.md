@@ -10,5 +10,6 @@ But for multiples of three it should output “Fizz” instead of the number and
 ## How to run it
 * Install Docker
 * Clone the Repo
+* Navigate to the Ruby directory
 * build the container: `docker build -t fizzbuzz .`
 * run the application: `docker run fizzbuzz`
