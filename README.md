@@ -1,6 +1,6 @@
 # Fizzbuzz Collection
 
-This repository contains a simple implementation of the classic "Fizzbuzz" problem in Ruby and Python, both using docker containers.
+This repository contains a simple implementation of the classic "Fizzbuzz" problem in Ruby, Python, and Go using docker containers.
 
 ## The Problem
 Write a program that outputs the string representation of numbers from 1 to n.
